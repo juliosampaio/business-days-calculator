@@ -1,0 +1,29 @@
+{
+  "name": "business-days-calculator",
+  "version": "0.0.0",
+  "description": "A business days calculator backed by Google Calendar API",
+  "main": "dist/businessDaysCalculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliosampaio/business-days-calculator.git"
+  },
+  "keywords": [
+    "holliday",
+    "business",
+    "days",
+    "calculator",
+    "javascript"
+  ],
+  "author": "Julio Sampaio <juliodssampaio@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliosampaio/business-days-calculator/issues"
+  },
+  "homepage": "https://github.com/juliosampaio/business-days-calculator#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2"
+  }
+}
