@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/juliosampaio/business-days-calculator#readme",
   "devDependencies": {
-    "webpack": "^4.41.2"
+    "webpack": "^5.75.0"
   }
 }
